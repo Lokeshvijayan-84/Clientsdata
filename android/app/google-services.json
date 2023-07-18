@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "837816883387",
+    "project_id": "clinetsdata",
+    "storage_bucket": "clinetsdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837816883387:android:709d12bfc66014b078f19e",
+        "android_client_info": {
+          "package_name": "com.intellecto.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837816883387-2qmkt5q6d3n9inkflq00e6ajgudrh13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRBkSjhpeCSBzrmhVofwCFALXlzDJIBEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837816883387-2qmkt5q6d3n9inkflq00e6ajgudrh13o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837816883387-0g817l1g363v392orc5p3ndc00i98j4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clientsData"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
